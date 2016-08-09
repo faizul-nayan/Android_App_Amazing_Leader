@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amazing Leader</string>
+    <string name="facebook_app_id">625608117609186</string>
+    <string name="banner_ad_unit_id" >ca-app-pub-3985395576754717/7769808583</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-3985395576754717/6932203784</string>
+    <string name="banner_ad_unit_idPhotoMaker">ca-app-pub-3985395576754717/5344392585</string>
+</resources>
